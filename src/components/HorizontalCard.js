@@ -1,5 +1,4 @@
 import React from 'react'
-import banana from "../images/banana.jpg"
 
 const HorizontalCard = (props) => {
 
